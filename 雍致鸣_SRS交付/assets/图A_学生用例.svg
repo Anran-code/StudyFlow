@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1480" height="1160" viewBox="0 0 1480 1160">
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+<rect x="350" y="160" width="880" height="850" rx="0" fill="#f8fbfe" stroke="#45617b" stroke-width="1"/>
+<polyline points="202,462 540,281" fill="none" stroke="#45617b" stroke-width="2"/>
+<polyline points="202,462 540,399" fill="none" stroke="#45617b" stroke-width="2"/>
+<polyline points="202,462 540,517" fill="none" stroke="#45617b" stroke-width="2"/>
+<polyline points="202,462 540,635" fill="none" stroke="#45617b" stroke-width="2"/>
+<polyline points="202,462 540,753" fill="none" stroke="#45617b" stroke-width="2"/>
+<polyline points="202,462 540,871" fill="none" stroke="#45617b" stroke-width="2"/>
+<polyline points="140,832 74,832 74,462 140,462" fill="none" stroke="#45617b" stroke-width="2"/>
+<polygon points="140,462 126.0,456.0 126.0,468.0" fill="white" stroke="#45617b" stroke-width="2"/>
+<rect x="51.0" y="645" width="48.0" height="30" fill="white"/>
+<text x="75.0" y="660.0" text-anchor="middle" dominant-baseline="central" font-size="18" fill="#243b53" font-weight="400">泛化</text>
+<polyline points="1290,512 1070,517" fill="none" stroke="#45617b" stroke-width="2"/>
+<text x="40" y="51.0" text-anchor="start" dominant-baseline="central" font-size="32" fill="#17324d" font-weight="700">StudyFlow｜系统用例图 A</text>
+<text x="40" y="101.5" text-anchor="start" dominant-baseline="central" font-size="18" fill="#60758a" font-weight="400">共同操作；连线表示参与关系；空心三角表示管理者继承学生角色</text>
+<text x="390" y="196.5" text-anchor="start" dominant-baseline="central" font-size="23" fill="#60758a" font-weight="400">StudyFlow 系统边界 · 学生共同操作</text>
+<circle cx="171.0" cy="433" r="13" fill="white" stroke="#45617b" stroke-width="3"/>
+<polyline points="171.0,446 171.0,483" fill="none" stroke="#45617b" stroke-width="3"/>
+<polyline points="146,458 196,458" fill="none" stroke="#45617b" stroke-width="3"/>
+<polyline points="171.0,483 148,504" fill="none" stroke="#45617b" stroke-width="3"/>
+<polyline points="171.0,483 194,504" fill="none" stroke="#45617b" stroke-width="3"/>
+<text x="171.0" y="532.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">学生</text>
+<text x="171.0" y="563.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">（当前空间成员）</text>
+<circle cx="171.0" cy="803" r="13" fill="white" stroke="#45617b" stroke-width="3"/>
+<polyline points="171.0,816 171.0,853" fill="none" stroke="#45617b" stroke-width="3"/>
+<polyline points="146,828 196,828" fill="none" stroke="#45617b" stroke-width="3"/>
+<polyline points="171.0,853 148,874" fill="none" stroke="#45617b" stroke-width="3"/>
+<polyline points="171.0,853 194,874" fill="none" stroke="#45617b" stroke-width="3"/>
+<text x="171.0" y="902.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">作业管理者</text>
+<text x="171.0" y="933.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">（负责人 / 个人所有者）</text>
+<circle cx="1321.0" cy="483" r="13" fill="white" stroke="#45617b" stroke-width="3"/>
+<polyline points="1321.0,496 1321.0,533" fill="none" stroke="#45617b" stroke-width="3"/>
+<polyline points="1296,508 1346,508" fill="none" stroke="#45617b" stroke-width="3"/>
+<polyline points="1321.0,533 1298,554" fill="none" stroke="#45617b" stroke-width="3"/>
+<polyline points="1321.0,533 1344,554" fill="none" stroke="#45617b" stroke-width="3"/>
+<text x="1321.0" y="582.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">外部模型服务</text>
+<text x="1321.0" y="613.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">（支撑系统）</text>
+<ellipse cx="805.0" cy="281.0" rx="265.0" ry="41.0" fill="#eaf2fb" stroke="#45617b" stroke-width="2"/>
+<text x="805.0" y="265.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">UC-01</text>
+<text x="805.0" y="296.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">管理账号、空间与小组成员</text>
+<ellipse cx="805.0" cy="399.0" rx="265.0" ry="41.0" fill="#eaf2fb" stroke="#45617b" stroke-width="2"/>
+<text x="805.0" y="383.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">UC-05</text>
+<text x="805.0" y="414.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">维护个人可用时段</text>
+<ellipse cx="805.0" cy="517.0" rx="265.0" ry="41.0" fill="#eaf2fb" stroke="#45617b" stroke-width="2"/>
+<text x="805.0" y="501.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">UC-07</text>
+<text x="805.0" y="532.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">查询任务并请求规划建议</text>
+<ellipse cx="805.0" cy="635.0" rx="265.0" ry="41.0" fill="#eaf2fb" stroke="#45617b" stroke-width="2"/>
+<text x="805.0" y="619.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">UC-10</text>
+<text x="805.0" y="650.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">更新任务、评论、提交成果及验收</text>
+<ellipse cx="805.0" cy="753.0" rx="265.0" ry="41.0" fill="#eaf2fb" stroke="#45617b" stroke-width="2"/>
+<text x="805.0" y="737.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">UC-11</text>
+<text x="805.0" y="768.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">查看计划版本与站内提醒</text>
+<ellipse cx="805.0" cy="871.0" rx="265.0" ry="41.0" fill="#eaf2fb" stroke="#45617b" stroke-width="2"/>
+<text x="805.0" y="855.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">UC-12</text>
+<text x="805.0" y="886.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">检查要求覆盖与交付完整性</text>
+<rect x="80" y="1040" width="1320" height="88" rx="12" fill="#fff4dd" stroke="#45617b" stroke-width="2"/>
+<text x="740.0" y="1069.0" text-anchor="middle" dominant-baseline="central" font-size="20" fill="#243b53" font-weight="400">学生关联不等于获得全部子操作权限：只可维护本人时段及允许的任务字段。</text>
+<text x="740.0" y="1099.0" text-anchor="middle" dominant-baseline="central" font-size="20" fill="#243b53" font-weight="400">作业管理者继承共同操作；管理成员、验收及确认权限仍按当前空间判断。</text>
+</g></svg>

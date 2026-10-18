@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1480" height="1160" viewBox="0 0 1480 1160">
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+<rect x="350" y="160" width="880" height="850" rx="0" fill="#f8fbfe" stroke="#45617b" stroke-width="1"/>
+<polyline points="202,532 540,281" fill="none" stroke="#45617b" stroke-width="2"/>
+<polyline points="202,532 540,399" fill="none" stroke="#45617b" stroke-width="2"/>
+<polyline points="1290,602 1070,399" fill="none" stroke="#45617b" stroke-width="2"/>
+<polyline points="202,532 540,517" fill="none" stroke="#45617b" stroke-width="2"/>
+<polyline points="202,532 540,635" fill="none" stroke="#45617b" stroke-width="2"/>
+<polyline points="1290,602 1070,635" fill="none" stroke="#45617b" stroke-width="2"/>
+<polyline points="202,532 540,753" fill="none" stroke="#45617b" stroke-width="2"/>
+<polyline points="202,532 540,871" fill="none" stroke="#45617b" stroke-width="2"/>
+<polyline points="1290,602 1070,871" fill="none" stroke="#45617b" stroke-width="2"/>
+<text x="40" y="51.0" text-anchor="start" dominant-baseline="central" font-size="32" fill="#17324d" font-weight="700">StudyFlow｜系统用例图 B</text>
+<text x="40" y="101.5" text-anchor="start" dominant-baseline="central" font-size="18" fill="#60758a" font-weight="400">管理者额外操作；与图 A 共用角色定义和系统边界</text>
+<text x="390" y="196.5" text-anchor="start" dominant-baseline="central" font-size="23" fill="#60758a" font-weight="400">StudyFlow 系统边界 · 规划与确认</text>
+<circle cx="171.0" cy="503" r="13" fill="white" stroke="#45617b" stroke-width="3"/>
+<polyline points="171.0,516 171.0,553" fill="none" stroke="#45617b" stroke-width="3"/>
+<polyline points="146,528 196,528" fill="none" stroke="#45617b" stroke-width="3"/>
+<polyline points="171.0,553 148,574" fill="none" stroke="#45617b" stroke-width="3"/>
+<polyline points="171.0,553 194,574" fill="none" stroke="#45617b" stroke-width="3"/>
+<text x="171.0" y="602.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">作业管理者</text>
+<text x="171.0" y="633.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">（负责人 / 个人所有者）</text>
+<circle cx="1321.0" cy="573" r="13" fill="white" stroke="#45617b" stroke-width="3"/>
+<polyline points="1321.0,586 1321.0,623" fill="none" stroke="#45617b" stroke-width="3"/>
+<polyline points="1296,598 1346,598" fill="none" stroke="#45617b" stroke-width="3"/>
+<polyline points="1321.0,623 1298,644" fill="none" stroke="#45617b" stroke-width="3"/>
+<polyline points="1321.0,623 1344,644" fill="none" stroke="#45617b" stroke-width="3"/>
+<text x="1321.0" y="672.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">外部模型服务</text>
+<text x="1321.0" y="703.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">（支撑系统）</text>
+<ellipse cx="805.0" cy="281.0" rx="265.0" ry="41.0" fill="#eaf2fb" stroke="#45617b" stroke-width="2"/>
+<text x="805.0" y="265.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">UC-02</text>
+<text x="805.0" y="296.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">管理课程、作业与原始说明</text>
+<ellipse cx="805.0" cy="399.0" rx="265.0" ry="41.0" fill="#eaf2fb" stroke="#45617b" stroke-width="2"/>
+<text x="805.0" y="383.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">UC-03</text>
+<text x="805.0" y="414.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">抽取、修改与确认作业要求</text>
+<ellipse cx="805.0" cy="517.0" rx="265.0" ry="41.0" fill="#eaf2fb" stroke="#45617b" stroke-width="2"/>
+<text x="805.0" y="501.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">UC-04</text>
+<text x="805.0" y="532.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">拆解任务、分配负责人及设置依赖</text>
+<ellipse cx="805.0" cy="635.0" rx="265.0" ry="41.0" fill="#eaf2fb" stroke="#45617b" stroke-width="2"/>
+<text x="805.0" y="619.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">UC-06</text>
+<text x="805.0" y="650.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">生成排程草案并解释冲突</text>
+<ellipse cx="805.0" cy="753.0" rx="265.0" ry="41.0" fill="#e7f5f1" stroke="#45617b" stroke-width="2"/>
+<text x="805.0" y="737.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">UC-08</text>
+<text x="805.0" y="768.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">确认计划并生成正式版本</text>
+<ellipse cx="805.0" cy="871.0" rx="265.0" ry="41.0" fill="#eaf2fb" stroke="#45617b" stroke-width="2"/>
+<text x="805.0" y="855.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">UC-09</text>
+<text x="805.0" y="886.5" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#243b53" font-weight="400">时间或工时变化后提出计划调整</text>
+<rect x="80" y="1040" width="1320" height="88" rx="12" fill="#fff4dd" stroke="#45617b" stroke-width="2"/>
+<text x="740.0" y="1069.0" text-anchor="middle" dominant-baseline="central" font-size="20" fill="#243b53" font-weight="400">外部模型仅辅助理解与解释；确定性业务服务校验约束并执行排程。</text>
+<text x="740.0" y="1099.0" text-anchor="middle" dominant-baseline="central" font-size="20" fill="#243b53" font-weight="400">模型未连接 UC-08：正式计划必须由有权用户确认，代理不能直接使其生效。</text>
+</g></svg>
