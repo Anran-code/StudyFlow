@@ -1,0 +1,25 @@
+{
+  "adopted_on": "2026-10-21",
+  "version": "1.1",
+  "provenance": "User supplied images, copied byte-for-byte; editable models reconstructed separately.",
+  "images": [
+    {
+      "original_filename": "StudyFlow 排程草案流程图.png",
+      "asset": "assets/图E_AI与排程_生成草案.png",
+      "sha256": "cc51d89f48c99b8a0adfd7cd1e1f871bcb9e721cf5b7f206063788ce9cc59dff",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "original_filename": "StudyFlow计划确认与生效流程图.png",
+      "asset": "assets/图F_AI与排程_人工交接.png",
+      "sha256": "f72b528f0dba674c43ed36c82f9a29e4fc3c4aa4706fbaf9fa44ea1448bc191d",
+      "dimensions": [
+        1672,
+        941
+      ]
+    }
+  ]
+}
